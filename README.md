@@ -1,4 +1,4 @@
-![image](https://github.com/Liu-YuC/Sudoku/assets/48112199/8089fcfb-be70-4ece-92a9-c365340d5f01)# Sudoku
+# Sudoku
 # 南开软件工程实验
 shudu.exe 程序是一个数独游戏程序，用于生成数独游戏和解决数独谜题。以下是关于如何使用 shudu.exe 的说明：
 1.	打开命令提示符或终端窗口，并导航到 shudu.exe 程序所在的目录。
