@@ -27,7 +27,9 @@ shudu.exe 程序是一个数独游戏程序，用于生成数独游戏和解决�
 
 运用gcovr测试覆盖率：
 ![覆盖率](https://github.com/Liu-YuC/Sudoku/assets/48112199/9799a468-f005-46e2-90af-39d8084e58a9)
+
 运用doctest进行单元检测：
 ![单元测试](https://github.com/Liu-YuC/Sudoku/assets/48112199/26a584ef-1fbd-4530-9274-9f91998c6100)
+
 运用cppcheck进行代码质量分析：
 ![cppcheck](https://github.com/Liu-YuC/Sudoku/assets/48112199/5e70f374-75e9-4424-9f63-186512f8d256)
